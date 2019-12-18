@@ -1,4 +1,6 @@
-# jaguar_dev_proxy (This is a copy, origin project was deleted by author)
+# jaguar_dev_proxy 
+# (This is a copy, origin project was deleted by author)
+# (add 'postOnlyProxy' method)
 
 Provides [`PrefixedProxyServer`](https://www.dartdocs.org/documentation/jaguar_dev_proxy/latest/jaguar_dev_proxy/PrefixedProxyServer-class.html)
 to reverse proxy certain selected requests to another server.
