@@ -1,4 +1,4 @@
-# jaguar_dev_proxy
+# jaguar_dev_proxy (This is a copy, origin project was deleted by author)
 
 Provides [`PrefixedProxyServer`](https://www.dartdocs.org/documentation/jaguar_dev_proxy/latest/jaguar_dev_proxy/PrefixedProxyServer-class.html)
 to reverse proxy certain selected requests to another server.
